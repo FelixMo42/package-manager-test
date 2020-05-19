@@ -1,0 +1,5 @@
+deploy
+packages
+test
+node_modules
+tmp
